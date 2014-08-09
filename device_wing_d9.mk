@@ -28,6 +28,6 @@ PRODUCT_COPY_FILES += \
 	device/softwinners/wing_d9/modules/hdmi.ko:recovery/root/hdmi.ko \
 	device/softwinners/wing_d9/modules/lcd.ko:recovery/root/lcd.ko \
 	device/softwinners/wing_d9/modules/nand.ko:recovery/root/nand.ko \
-	device/softwinners/wing_d9/modules/ft5x_ts.ko:recovery/root/ft5x_ts.ko \
+	device/softwinners/wing_d9/modules/gslX680.ko:recovery/root/gslX680.ko \
 	device/softwinners/wing_d9/extra/init_partitions.sh:recovery/root/sbin/init_partitions.sh \
 	device/softwinners/wing_d9/extra/ueventd.sun7i.rc:recovery/root/ueventd.sun7i.rc

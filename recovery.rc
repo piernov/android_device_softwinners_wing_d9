@@ -10,7 +10,7 @@ on init
     export ANDROID_DATA /data
     export EXTERNAL_STORAGE /sdcard
     insmod /nand.ko
-    insmod /ft5x_ts.ko
+    insmod /gslX680.ko
     insmod /disp.ko
     insmod /lcd.ko
     insmod /hdmi.ko
